@@ -1,0 +1,12 @@
+com\eventplatform\event\controller\EventController.class
+com\eventplatform\event\entity\Event$EventStatus.class
+com\eventplatform\event\config\RabbitMQConfig.class
+com\eventplatform\event\exception\GlobalExceptionHandler.class
+com\eventplatform\event\service\EventService.class
+com\eventplatform\event\exception\EventNotFoundException.class
+com\eventplatform\event\EventServiceApplication.class
+com\eventplatform\event\entity\Event$EventCategory.class
+com\eventplatform\event\exception\InsufficientTicketsException.class
+com\eventplatform\event\entity\Event.class
+com\eventplatform\event\controller\FallbackController.class
+com\eventplatform\event\repository\EventRepository.class

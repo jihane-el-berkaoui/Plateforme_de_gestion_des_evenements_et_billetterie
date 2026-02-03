@@ -1,0 +1,12 @@
+com\eventplatform\booking\controller\BookingController.class
+com\eventplatform\booking\entity\Booking.class
+com\eventplatform\booking\config\RabbitMQConfig.class
+com\eventplatform\booking\dto\BookingMessageDTO.class
+com\eventplatform\booking\repository\BookingRepository.class
+com\eventplatform\booking\exception\GlobalExceptionHandler.class
+com\eventplatform\booking\exception\BookingNotFoundException.class
+com\eventplatform\booking\dto\EventDTO.class
+com\eventplatform\booking\BookingServiceApplication.class
+com\eventplatform\booking\entity\Booking$BookingStatus.class
+com\eventplatform\booking\client\EventClient.class
+com\eventplatform\booking\service\BookingService.class

@@ -1,0 +1,12 @@
+spring:
+  config:
+    import: "optional:configserver:"
+  
+  
+  cloud:
+    gateway:
+      routes:
+        - id: checkin-service
+          uri: lb://CHECKIN-SERVICE
+          predicates:
+            - Path=/api/qr-codes/**, /api/checkin/**

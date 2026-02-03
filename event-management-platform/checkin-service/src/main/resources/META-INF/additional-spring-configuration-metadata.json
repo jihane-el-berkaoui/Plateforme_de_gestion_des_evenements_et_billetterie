@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "mail.host",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.host'"
+  },
+  {
+    "name": "mail.port",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.port'"
+  },
+  {
+    "name": "mail.username",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.username'"
+  },
+  {
+    "name": "mail.password",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.password'"
+  },
+  {
+    "name": "mail.properties.mail.smtp.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.properties.mail.smtp.auth'"
+  },
+  {
+    "name": "mail.default-encoding",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.default-encoding'"
+  },
+  {
+    "name": "mail.properties.mail.smtp.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.properties.mail.smtp.starttls.enable'"
+  },
+  {
+    "name": "mail.properties.mail.smtp.[starttls.required]",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.properties.mail.smtp.[starttls.required]'"
+  }
+]}

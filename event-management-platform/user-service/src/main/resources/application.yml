@@ -1,0 +1,23 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: iot22926@gmail.com
+    password: xthqghulkqockwnk
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+          '[starttls.required]': true  
+    default-encoding: UTF-8
+
+
+  application:
+    name: user-service 
+  
+eureka:
+  instance:
+    instance-id: ${spring.application.name}:${server.port}
+    appname: ${spring.application.name}  

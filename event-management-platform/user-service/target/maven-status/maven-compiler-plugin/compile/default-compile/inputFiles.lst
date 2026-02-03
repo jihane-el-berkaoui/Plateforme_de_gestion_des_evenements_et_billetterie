@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\user-service\src\main\java\com\eventplatform\user\entity\User.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\user-service\src\main\java\com\eventplatform\user\UserServiceApplication.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\user-service\src\main\java\com\eventplatform\user\dto\UserUpdateDTO.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\user-service\src\main\java\com\eventplatform\user\exception\UserNotFoundException.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\user-service\src\main\java\com\eventplatform\user\controller\UserController.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\user-service\src\main\java\com\eventplatform\user\controller\AuthController.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\user-service\src\main\java\com\eventplatform\user\controller\EmailTestController.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\user-service\src\main\java\com\eventplatform\user\repository\UserRepository.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\user-service\src\main\java\com\eventplatform\user\service\EmailService.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\user-service\src\main\java\com\eventplatform\user\service\UserService.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\user-service\src\main\java\com\eventplatform\user\config\SecurityConfig.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\user-service\src\main\java\com\eventplatform\user\exception\GlobalExceptionHandler.java

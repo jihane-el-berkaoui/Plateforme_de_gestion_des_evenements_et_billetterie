@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\checkin-service\src\main\java\com\eventplatform\checkin\dto\QRCodeDTO.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\checkin-service\src\main\java\com\eventplatform\checkin\config\RabbitMQConfig.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\checkin-service\src\main\java\com\eventplatform\checkin\repository\CheckInRepository.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\checkin-service\src\main\java\com\eventplatform\checkin\service\QRCodeService.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\checkin-service\src\main\java\com\eventplatform\checkin\controller\CheckInController.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\checkin-service\src\main\java\com\eventplatform\checkin\service\CheckInService.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\checkin-service\src\main\java\com\eventplatform\checkin\entity\CheckIn.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\checkin-service\src\main\java\com\eventplatform\checkin\repository\QRCodeRepository.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\checkin-service\src\main\java\com\eventplatform\checkin\config\EmailConfig.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\checkin-service\src\main\java\com\eventplatform\checkin\CheckinServiceApplication.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\checkin-service\src\main\java\com\eventplatform\checkin\service\QRCodeEmailService.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\checkin-service\src\main\java\com\eventplatform\checkin\entity\QRCode.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\checkin-service\src\main\java\com\eventplatform\checkin\dto\CheckInDTO.java
+C:\Users\hp\Desktop\EVENT-APP\event-management-platform\checkin-service\src\main\java\com\eventplatform\checkin\controller\QRCodeController.java

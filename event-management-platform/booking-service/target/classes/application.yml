@@ -1,0 +1,5 @@
+spring:
+  config:
+    import: "optional:configserver:"
+  rabbitmq:
+    enabled: true

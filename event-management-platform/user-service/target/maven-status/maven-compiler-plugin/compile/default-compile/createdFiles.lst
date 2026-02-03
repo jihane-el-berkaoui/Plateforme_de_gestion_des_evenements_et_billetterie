@@ -1,0 +1,13 @@
+com\eventplatform\user\service\EmailService.class
+com\eventplatform\user\exception\UserNotFoundException.class
+com\eventplatform\user\repository\UserRepository.class
+com\eventplatform\user\controller\UserController.class
+com\eventplatform\user\service\UserService.class
+com\eventplatform\user\config\SecurityConfig.class
+com\eventplatform\user\controller\AuthController$LoginRequest.class
+com\eventplatform\user\controller\AuthController$ResetPasswordRequest.class
+com\eventplatform\user\controller\AuthController$ForgotPasswordRequest.class
+com\eventplatform\user\exception\GlobalExceptionHandler.class
+com\eventplatform\user\controller\AuthController.class
+com\eventplatform\user\entity\User.class
+com\eventplatform\user\UserServiceApplication.class

@@ -1,0 +1,3 @@
+com\eventplatform\gateway\FallbackController.class
+com\eventplatform\gateway\ApiGatewayApplication.class
+com\eventplatform\gateway\CorsConfig.class
